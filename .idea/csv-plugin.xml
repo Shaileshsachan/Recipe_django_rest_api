@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\app\app\settings.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\tezt.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\x.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
